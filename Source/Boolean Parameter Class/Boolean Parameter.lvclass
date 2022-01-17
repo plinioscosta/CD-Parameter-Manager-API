@@ -47,6 +47,15 @@
 			</Item>
 		</Item>
 	</Item>
+	<Item Name="Get UI Control Value.vi" Type="VI" URL="../Get UI Control Value.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'&amp;!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;J!=!!?!!![(E.%)&amp;"B=G&amp;N:82F=C".97ZB:W6S)%&amp;133ZM&gt;GRJ9BF#&lt;W^M:7&amp;O)&amp;"B=G&amp;N:82F=CZM&gt;G.M98.T!!!61G^P&lt;'6B&lt;C"198*B&lt;76U:8)A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!&amp;%"Q!!A!!!!#!!!'6EEA5G6G!!";1(!!(A!!/BZ$2#"198*B&lt;76U:8)A47&amp;O97&gt;F=C""5%EO&lt;(:M;7):1G^P&lt;'6B&lt;C"198*B&lt;76U:8)O&lt;(:D&lt;'&amp;T=Q!!&amp;%*P&lt;WRF97YA5'&amp;S97VF&gt;'6S)'FO!!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!=!#!-!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!+!!!!EA!!!!!"!!E!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+	</Item>
 	<Item Name="Set UI Control Value.vi" Type="VI" URL="../Set UI Control Value.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'&amp;!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;J!=!!?!!![(E.%)&amp;"B=G&amp;N:82F=C".97ZB:W6S)%&amp;133ZM&gt;GRJ9BF#&lt;W^M:7&amp;O)&amp;"B=G&amp;N:82F=CZM&gt;G.M98.T!!!61G^P&lt;'6B&lt;C"198*B&lt;76U:8)A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!&amp;%"Q!!A!!!!#!!!'6EEA5G6G!!";1(!!(A!!/BZ$2#"198*B&lt;76U:8)A47&amp;O97&gt;F=C""5%EO&lt;(:M;7):1G^P&lt;'6B&lt;C"198*B&lt;76U:8)O&lt;(:D&lt;'&amp;T=Q!!&amp;%*P&lt;WRF97YA5'&amp;S97VF&gt;'6S)'FO!!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!=!#!-!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!+!!!!E!!!!!!"!!E!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
