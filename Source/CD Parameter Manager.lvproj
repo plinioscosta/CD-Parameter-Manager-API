@@ -14,7 +14,7 @@
 			<Item Name="Controls and Globals" Type="Folder">
 				<Item Name="Parameters.vi" Type="VI" URL="../Test VIs/Controls and Globals/Parameters.vi"/>
 			</Item>
-			<Item Name="Test.vi" Type="VI" URL="../Test VIs/Test.vi"/>
+			<Item Name="API Tester.vi" Type="VI" URL="../Test VIs/API Tester.vi"/>
 		</Item>
 		<Item Name="CD Parameter Manager API.lvlib" Type="Library" URL="../CD Parameter Manager API.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -22,6 +22,7 @@
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
+				<Item Name="Custom Device API.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI VeriStand/Custom Device API/Custom Device API.lvlib"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
 				<Item Name="Get LV Class Name.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Name.vi"/>
